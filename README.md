@@ -24,24 +24,19 @@ Estrutura do Repositório
 O repositório está organizado da seguinte forma para facilitar a navegação e a compreensão:
 
 •
-/prompts: Contém os prompts utilizados para interagir com as ferramentas da OpenAI, juntamente com anotações sobre os resultados e variações.
+Contém os prompts utilizados para interagir com as ferramentas da OpenAI, juntamente com anotações sobre os resultados e variações.
 
 •
-/examples: Apresenta exemplos práticos de uso do Copiloto e de outras ferramentas de IA, incluindo trechos de código, descrições de cenários e resultados obtidos.
+Apresenta exemplos práticos de uso do Copiloto e de outras ferramentas de IA, incluindo trechos de código, descrições de cenários e resultados obtidos.
 
 •
-/docs: Armazena a documentação aprofundada sobre filtros de conteúdo, recursos de criação assistida por IA e os aprendizados gerais do desafio.
+Armazena a documentação aprofundada sobre filtros de conteúdo, recursos de criação assistida por IA e os aprendizados gerais do desafio.
 
 •
-/images: Armazena imagens geradas por IA e outros recursos visuais que enriquecem a documentação.
+Armazena imagens geradas por IA e outros recursos visuais que enriquecem a documentação.
 
 •
 README.md: Este arquivo, que serve como ponto de partida para entender o projeto e sua estrutura.
-
-
-Como Navegar
-
-Para explorar o projeto, comece lendo este README.md para uma visão geral. Em seguida, mergulhe nas pastas /prompts e /examples para ver as aplicações práticas. A pasta /docs oferece insights mais aprofundados sobre os conceitos técnicos e os aprendizados. As imagens na pasta /images complementam a documentação visualmente.
 
 Contribuição
 
